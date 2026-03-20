@@ -21,4 +21,5 @@ This project performs simple arithmetic operations with a clean user interface.
   ## 🌐 Live Demo
 👉 https://yourusername.github.io/calculator-project/
 
-## 📸 Screenshot
+
+
