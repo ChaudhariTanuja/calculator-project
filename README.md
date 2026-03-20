@@ -19,7 +19,7 @@ This project performs simple arithmetic operations with a clean user interface.
 - JavaScript
 
   ## 🌐 Live Demo
-👉 https://yourusername.github.io/calculator-project/
+👉  https://chaudharitanuja.github.io/calculator-project/
 
 
 
